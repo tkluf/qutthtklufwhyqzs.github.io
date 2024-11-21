@@ -1,0 +1,195 @@
+html {
+    scroll-behavior: smooth;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: black;
+    
+}
+.header {
+    border-color: white;
+    border-style: groove;
+    border-radius: 6px;
+    width: 400px;
+    transition: transform 0.3s ease;
+    border-width: 2px;
+    
+}
+.header:hover {
+    transform: scale(1.1)
+}
+* {
+    color: white;
+}
+.nav {
+display: flex;
+list-style-type: none;
+justify-content: center;
+}
+li {
+margin-right: 19px;
+font-size: 16px;
+}
+.navnav {
+display: flex;
+justify-self: center;
+align-items: center;
+
+
+}
+a {
+text-decoration: none;
+}
+a:hover {
+color: gray;
+}
+ul:first-child {
+margin-left: 0;
+padding-left: 0;
+}
+ul :last-child {
+margin-right: 0;
+padding-right: 0;
+}
+.osebe {
+    border-color: white;
+    border-style: groove;
+    border-radius: 6px;
+    width: 350px;
+    text-align: center;
+}
+.osebe1 {
+    border-color: white;
+    border-style: groove;
+    border-radius: 6px;
+    
+    text-align: center;
+    width: 500px;
+    display: inline-block;
+    
+    
+    
+}
+.osebe2 {
+    border-color: white;
+    border-style: groove;
+    border-radius: 6px;
+    width: 500px;
+    display: inline-block;
+     
+}
+.osebe4 {
+    border-color: white;
+    border-style: groove;
+    border-radius: 6px;
+    width: 350px;
+    text-align: center;
+    
+     
+}
+.osebecent {
+margin-top: 20px;
+display: flex;
+justify-self: center;
+
+
+}
+.img {
+width: 25px;
+border-radius: 50%;
+margin-right: 10px;
+
+}
+.imgnav:hover {
+border-color: white;
+    border-style: groove;
+    border-radius: 50%;
+    border-width: 0.1px;
+}
+h2 {
+text-align: center;
+}
+h3 {
+text-align: center;
+}
+p {
+font-size: 20px;
+}
+.section-a {
+text-decoration: underline;
+}
+.section-a:hover {
+text-decoration: none;
+}
+.pp {
+font-size: 19px;
+}
+
+*:target {
+background-color: rgba(128, 128, 128, 0.3);
+}
+.hh2 {
+margin-left: 10px;
+margin-top: 5px;
+width: 100px;
+justify-self: center;
+height: 132px;
+}
+.hh {
+margin-left: 10px;
+margin-top: 5px;
+width: 100px;
+justify-self: center;
+}
+.text-game {
+margin-left: 10px;
+text-align: center;
+}
+.igr {
+display: inline-block;
+text-align: center;
+border-color: rgb(255, 255, 255);
+border-style: groove;
+}
+.igr {
+display: inline-block;
+text-align: center;
+border-color: rgb(255, 255, 255);
+border-style: groove;
+}
+.igr2 {
+display: inline-block;
+text-align: center;
+border-color: rgb(255, 255, 255);
+border-style: groove;
+height: 217px;
+}
+.igr3 {
+display: inline-block;
+text-align: center;
+border-color: rgb(255, 255, 255);
+border-style: groove;
+height: 217px;
+width: 150px;
+}
+
+
+h4 {
+font-size: 15px;
+}
+.dlyapadinga {
+padding-bottom: 10px;
+padding-left: 14px;
+}
+
+.igr:hover {
+scale: 1.1;
+}
+.h3 {
+margin: 0;
+text-align: center;
+margin-top: 5px;
+}
